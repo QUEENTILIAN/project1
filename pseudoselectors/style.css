@@ -1,0 +1,8 @@
+p::first-line {
+    background-color: blue;
+font-size: 2rem;
+  }
+  .1 ::first-letter{
+    background-color: springgreen;
+    font-size: 2em;
+  }
